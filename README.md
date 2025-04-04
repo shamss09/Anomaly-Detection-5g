@@ -56,9 +56,9 @@ Matplotlib for visualizations.
 
 => Highlights 
 
-The project integrates advanced ensemble techniques to enhance the accuracy and robustness of anomaly detection.
+The project integrates advanced ensemble techniques to enhance the robustness of anomaly detection.
 Real-time anomaly detection capabilities ensure timely intervention and mitigation of potential threats.
-The system provides a scalable and adaptive solution for monitoring complex and high-traffic 5G environments.
+The system provides a scalable and adaptive solution for monitoring complex 5G environments.
 
 => Contributors 
 
