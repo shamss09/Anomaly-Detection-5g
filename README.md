@@ -62,11 +62,11 @@ The system provides a scalable and adaptive solution for monitoring complex and 
 
 => Contributors 
 
-Musunuru Shamitha
-
-Vannempalli Sanvika
-
-Madala Poorna Chandra
+Musunuru Shamitha, Vannempalli Sanvika, Madala Poorna Chandra
 
 Supervisor: Dr. Indrasen Singh
+
+=> Research paper link
+
+https://ieeexplore.ieee.org/document/10940408
 
